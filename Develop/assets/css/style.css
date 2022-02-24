@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header style start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,6 +37,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* header style end */
 
 a {
     color: #ffffff;
@@ -71,6 +73,7 @@ p {
     margin-left: 25px;
 }
 
+/* aside style start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -129,7 +132,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* aside style end */
 
+/* section style start */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -183,7 +188,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* section style end */
 
+/* footer style start */
 .footer {
     padding: 30px;
     clear: both;
@@ -194,3 +201,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* footer style end */
