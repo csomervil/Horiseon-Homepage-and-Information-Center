@@ -16,3 +16,6 @@ Screenshots of the Horiseon webpage.
 ![Horiseon-screenshot](https://user-images.githubusercontent.com/100229796/155404056-7ae738a0-d8d1-4fc6-aa2a-f7194fc167da.png)
 
 ![Horiseon-screenshot1](https://user-images.githubusercontent.com/100229796/155404221-9ae51694-10e4-46aa-b584-306421bc524d.png)
+
+Preview of Homepage:
+https://htmlpreview.github.io/?https://github.com/csomervil/Horiseon-webpage/blob/main/Develop/index.html
